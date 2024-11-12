@@ -1,0 +1,193 @@
+Player -400 350 100 100 
+Floor -600 -150 650 650 0.0 1
+Floor 0 -150 650 650 0.0 1
+Floor 0 -600 650 650 0.0 1
+Wall -100 -250 100 100 1 
+Wall -100 -600 100 100 1 
+Wall 0 -700 100 100 1 
+Wall -100 -700 100 100 1 
+Wall 550 -700 100 100 1 
+Wall 650 -600 100 100 1 
+Wall 650 -700 100 100 1 
+Wall 650 400 100 100 1 
+Wall 550 500 100 100 1 
+Wall 650 500 100 100 1 
+Wall -600 500 100 100 1 
+Wall -700 400 100 100 1 
+Wall -700 500 100 100 1 
+Wall -700 -150 100 100 1 
+Wall -600 -250 100 100 1 
+Wall -700 -250 100 100 1 
+Wall -200 -250 100 100 1 
+Wall -100 -350 100 100 1 
+Wall -700 -50 100 520 1 
+Wall -100 -600 100 410 1 
+Wall 650 -600 100 1050 1 
+Wall -550 -250 400 100 1 
+Wall -550 500 1170 100 1 
+Wall -700 500 100 100 2 
+Wall -600 500 100 100 2 
+Wall -500 500 100 100 2 
+Wall -700 400 100 100 2 
+Wall -700 300 100 100 2 
+Wall -700 200 100 100 2 
+Wall -700 100 100 100 2 
+Wall -700 0 100 100 2 
+Wall -700 -100 100 100 2 
+Wall -700 -150 100 100 2 
+Wall -700 -250 100 100 2 
+Wall -600 -250 100 100 2 
+Wall -500 -250 100 100 2 
+Wall -100 -250 100 100 2 
+Wall -200 -250 100 100 2 
+Wall -300 -250 100 100 2 
+Wall -400 -250 100 100 2 
+Wall -100 -700 100 100 2 
+Wall -100 -600 100 100 2 
+Wall -100 -500 100 100 2 
+Wall -100 -400 100 100 2 
+Wall -100 -350 100 100 2 
+Wall 50 -700 560 100 1 
+Wall 0 -700 100 100 2 
+Wall 100 -700 100 100 2 
+Wall 200 -700 100 100 2 
+Wall 300 -700 100 100 2 
+Wall 400 -700 100 100 2 
+Wall 500 -700 100 100 2 
+Wall 600 -700 100 100 2 
+Wall 650 -700 100 100 2 
+Wall 650 -600 100 100 2 
+Wall 650 -500 100 100 2 
+Wall 650 -400 100 100 2 
+Wall 650 -300 100 100 2 
+Wall 650 -200 100 100 2 
+Wall 650 -100 100 100 2 
+Wall 650 0 100 100 2 
+Wall 650 100 100 100 2 
+Wall 650 200 100 100 2 
+Wall 650 300 100 100 2 
+Wall 650 400 100 100 2 
+Wall 650 500 100 100 2 
+Wall 550 500 100 100 2 
+Wall -400 500 100 100 2 
+Wall -300 500 100 100 2 
+Wall -200 500 100 100 2 
+Wall -100 500 100 100 2 
+Wall 0 500 100 100 2 
+Wall 100 500 100 100 2 
+Wall 200 500 100 100 2 
+Wall 300 500 100 100 2 
+Wall 400 500 100 100 2 
+Wall 500 500 100 100 2 
+Block -200 -150 100 100 1 true
+Block -200 -50 100 100 1 true
+Block -200 50 100 100 1 true
+Block -200 150 100 100 1 true
+Block -200 250 100 100 1 true
+Block -200 350 100 100 1 true
+Block -200 400 100 100 1 true
+Switch -450 -150 100 100 1 false
+Wall -100 150 100 100 2 
+Wall 0 150 100 100 2 
+Wall 100 150 100 100 2 
+Wall 200 150 100 100 2 
+Wall 300 150 100 100 2 
+Wall 300 50 100 100 2 
+Wall 300 -50 100 100 2 
+Wall 300 -200 100 100 2 
+Wall 300 -150 100 100 2 
+Wall 300 -300 100 100 2 
+Wall 300 -400 100 100 2 
+Wall 300 -500 100 100 2 
+Block 0 -500 100 100 2 true
+Block 100 -500 100 100 2 true
+Block 200 -500 100 100 2 true
+Block 400 -500 100 100 2 true
+Block 500 -500 100 100 2 true
+Block 550 -500 100 100 2 true
+Switch 0 -400 100 100 2 false
+Switch 550 -400 100 100 2 false
+Exit 300 -600 100 100 
+Spike 0 -150 100 100 3 true false
+Spike 0 -50 100 100 3 true false
+Spike 0 50 100 100 3 true false
+Switch 200 50 100 100 3 false
+Spike 0 -250 100 100 4 true false
+Spike 100 -250 100 100 4 true false
+Spike 200 -250 100 100 4 true false
+Switch -300 -150 100 100 4 false
+Spike 0 250 100 100 5 false true
+Spike 0 350 100 100 5 false true
+Spike 0 400 100 100 5 false true
+Switch 200 400 100 100 5 false
+Spike 100 250 100 100 5 false true
+Spike 100 350 100 100 5 false true
+Spike 100 400 100 100 5 false true
+Spike 100 300 100 100 5 false true
+Spike 0 300 100 100 5 false true
+Spike 300 400 100 100 5 true true
+Spike 300 300 100 100 5 true true
+Spike 300 250 100 100 5 true true
+Spike 300 350 100 100 5 true true
+Spike 400 150 100 100 5 false true
+Spike 500 150 100 100 5 false true
+Spike 550 150 100 100 5 false true
+Spike 450 150 100 100 5 false true
+Spike 400 -100 100 100 5 true true
+Spike 500 -100 100 100 5 true true
+Spike 550 -100 100 100 5 true true
+Spike 450 -100 100 100 5 true true
+Switch 550 250 100 100 5 false
+Decoration -600 -150 100 100 1 
+Decoration -600 400 100 100 1 
+Decoration -550 -150 100 100 3 
+Decoration -600 350 100 100 3 
+Decoration -400 150 100 100 3 
+Decoration -550 0 100 100 3 
+Decoration -600 200 100 100 6 
+Decoration -100 250 100 100 13 
+Decoration -50 250 100 100 13 
+Decoration -300 -50 100 100 28 
+Decoration 200 -50 100 100 28 
+Decoration 550 -300 100 100 28 
+Decoration 550 400 100 100 28 
+Decoration 0 -600 100 100 28 
+Decoration 200 -350 100 100 29 
+Decoration 450 400 100 100 29 
+Decoration -350 200 100 100 11 
+Decoration -350 350 100 100 11 
+Decoration -450 100 100 100 11 
+Decoration -500 50 100 100 11 
+Decoration 150 -50 100 100 11 
+Decoration 150 -150 100 100 11 
+Decoration 100 -100 100 100 11 
+Decoration -100 50 100 100 11 
+Decoration -100 -50 100 100 11 
+Decoration -100 -150 100 100 11 
+Decoration 400 0 100 100 11 
+Decoration 500 0 100 100 11 
+Decoration 500 -150 100 100 11 
+Decoration 450 -250 100 100 11 
+Decoration 400 -350 100 100 11 
+Decoration 150 -400 100 100 11 
+Decoration 400 400 100 100 11 
+Decoration 450 350 100 100 11 
+Decoration 400 250 100 100 11 
+Decoration 450 -600 100 100 11 
+Decoration 550 -650 100 100 11 
+Decoration 200 -600 100 100 11 
+Decoration 150 -600 100 100 11 
+Decoration 150 -650 100 100 11 
+Wall -100 150 100 100 1 
+Wall 0 150 100 100 1 
+Wall 100 150 100 100 1 
+Wall 200 150 100 100 1 
+Wall 300 150 100 100 1 
+Wall 300 50 100 100 1 
+Wall 300 -50 100 100 1 
+Wall 300 -150 100 100 1 
+Wall 300 -250 100 100 1 
+Wall 300 -350 100 100 1 
+Wall 300 -450 100 100 1 
+Wall 300 -500 100 100 1 
+Size -700 -700 750 600

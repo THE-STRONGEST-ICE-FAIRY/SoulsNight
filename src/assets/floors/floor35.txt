@@ -1,0 +1,118 @@
+Player 50 450 100 100 
+Floor -200 -550 490 1130 0.0 1
+Wall -300 550 100 100 1 
+Wall -200 550 100 100 1 
+Wall -300 450 100 100 1 
+Wall 200 550 100 100 1 
+Wall 100 550 100 100 1 
+Wall 300 550 100 100 1 
+Wall 300 450 100 100 1 
+Floor -200 -550 500 1130 0.0 1
+Floor -200 -750 500 1130 0.0 1
+Wall -300 -750 100 100 1 
+Wall -200 -850 100 100 1 
+Wall -300 -850 100 100 1 
+Wall 200 -850 100 100 1 
+Wall 300 -850 100 100 1 
+Wall 300 -750 100 100 1 
+Wall -150 550 330 100 1 
+Wall -150 -850 400 100 1 
+Wall -300 -700 100 1220 1 
+Wall 300 -700 100 1220 1 
+Wall -300 450 100 100 2 
+Wall -300 550 100 100 2 
+Wall -200 550 100 100 2 
+Wall -100 550 100 100 2 
+Wall 0 550 100 100 2 
+Wall 100 550 100 100 2 
+Wall 200 550 100 100 2 
+Wall 300 550 100 100 2 
+Wall -300 350 100 100 2 
+Wall 300 450 100 100 2 
+Wall 300 350 100 100 2 
+Wall -300 250 100 100 2 
+Wall 300 250 100 100 2 
+Wall 300 150 100 100 2 
+Wall -300 150 100 100 2 
+Wall -300 50 100 100 2 
+Wall 300 50 100 100 2 
+Wall 300 -50 100 100 2 
+Wall -300 -50 100 100 2 
+Wall -300 -150 100 100 2 
+Wall -300 -250 100 100 2 
+Wall -300 -350 100 100 2 
+Wall -300 -450 100 100 2 
+Wall -300 -550 100 100 2 
+Wall -300 -650 100 100 2 
+Wall -300 -750 100 100 2 
+Wall -300 -850 100 100 2 
+Wall -200 -850 100 100 2 
+Wall -100 -850 100 100 2 
+Wall 0 -850 100 100 2 
+Wall 100 -850 100 100 2 
+Wall 200 -850 100 100 2 
+Wall 300 -850 100 100 2 
+Wall 300 -750 100 100 2 
+Wall 300 -650 100 100 2 
+Wall 300 -550 100 100 2 
+Wall 300 -450 100 100 2 
+Wall 300 -350 100 100 2 
+Wall 300 -250 100 100 2 
+Wall 300 -150 100 100 2 
+Exit 0 -750 100 100 
+Block -100 -750 100 100 1 true
+Block -100 -650 100 100 1 true
+Block 0 -650 100 100 1 true
+Block 100 -650 100 100 1 true
+Block 100 -750 100 100 1 true
+Switch -200 -750 100 100 1 false
+Turret -200 200 100 100 2 false 0
+Turret -100 200 410 100 2 true 0
+Turret -200 300 100 250 2 true 1
+Turret -200 -750 100 990 2 true 3
+Switch 200 100 100 100 2 true
+Turret 200 0 100 100 3 false 2
+Turret -200 0 420 100 3 true 2
+Turret 200 -750 100 750 3 true 3
+Switch -200 -200 100 100 3 true
+Turret -200 -300 100 100 4 false 0
+Turret -100 -300 410 100 4 true 0
+Turret -200 -750 100 450 4 true 3
+Switch 200 -400 100 100 4 true
+Decoration 150 350 100 100 1 
+Decoration 50 450 100 100 1 
+Decoration 150 100 100 100 3 
+Decoration -200 300 100 100 3 
+Decoration 200 400 100 100 3 
+Decoration -50 -150 100 100 3 
+Decoration -150 -100 100 100 3 
+Decoration 200 -700 100 100 3 
+Decoration -200 -600 100 100 3 
+Decoration -150 -450 100 100 5 
+Decoration 200 -550 100 100 5 
+Decoration 50 -500 100 100 5 
+Decoration 50 -200 100 100 5 
+Decoration 200 -200 100 100 5 
+Decoration 100 50 100 100 5 
+Decoration -50 100 100 100 5 
+Decoration -150 400 100 100 5 
+Decoration 50 250 100 100 5 
+Decoration 150 200 100 100 7 
+Decoration -200 450 100 100 7 
+Decoration -200 450 100 100 22 
+Decoration -100 100 100 100 22 
+Decoration -200 100 100 100 22 
+Decoration -150 -450 100 100 22 
+Decoration -200 -600 100 100 22 
+Decoration 200 -100 100 100 22 
+Decoration 150 -150 100 100 25 
+Decoration 50 -350 100 100 25 
+Decoration -50 300 100 100 25 
+Decoration 0 -400 100 100 25 
+Decoration -50 -500 100 100 25 
+Decoration -150 -500 60 60 30 
+Decoration 200 -650 60 60 30 
+Decoration 200 -250 60 60 30 
+Decoration -200 50 60 60 30 
+Decoration 200 300 60 60 30 
+Size -300 -850 450 650

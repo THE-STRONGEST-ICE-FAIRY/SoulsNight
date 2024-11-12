@@ -1,0 +1,109 @@
+Player 0 400 100 100 
+Floor -450 -450 970 970 0.0 1
+Wall -450 -550 100 100 1 
+Wall -450 -550 990 100 1 
+Wall -550 -550 100 100 1 
+Wall -550 -500 100 1020 1 
+Wall 500 -500 100 1020 1 
+Wall -550 500 100 100 1 
+Wall -500 500 1110 100 1 
+Wall -550 500 100 100 2 
+Wall -450 500 100 100 2 
+Wall -350 500 100 100 2 
+Wall -250 500 100 100 2 
+Wall -150 500 100 100 2 
+Wall -50 500 100 100 2 
+Wall 50 500 100 100 2 
+Wall 150 500 100 100 2 
+Wall 250 500 100 100 2 
+Wall 350 500 100 100 2 
+Wall 450 500 100 100 2 
+Wall 500 500 100 100 2 
+Wall 500 400 100 100 2 
+Wall 500 300 100 100 2 
+Wall 500 200 100 100 2 
+Wall 500 100 100 100 2 
+Wall 500 0 100 100 2 
+Wall 500 -100 100 100 2 
+Wall 500 -200 100 100 2 
+Wall 500 -300 100 100 2 
+Wall 500 -400 100 100 2 
+Wall 500 -500 100 100 2 
+Wall 500 -550 100 100 2 
+Wall 400 -550 100 100 2 
+Wall 300 -550 100 100 2 
+Wall 200 -550 100 100 2 
+Wall 100 -550 100 100 2 
+Wall 0 -550 100 100 2 
+Wall -100 -550 100 100 2 
+Wall -200 -550 100 100 2 
+Wall -300 -550 100 100 2 
+Wall -400 -550 100 100 2 
+Wall -550 -550 100 100 2 
+Wall -450 -550 100 100 2 
+Wall -550 -450 100 100 2 
+Wall -550 -350 100 100 2 
+Wall -550 -250 100 100 2 
+Wall -550 -150 100 100 2 
+Wall -550 -50 100 100 2 
+Wall -550 50 100 100 2 
+Wall -550 150 100 100 2 
+Wall -550 250 100 100 2 
+Wall -550 350 100 100 2 
+Wall -550 400 100 100 2 
+Spike -450 200 100 100 -1 true true
+Spike -350 200 100 100 -1 true true
+Spike -250 200 100 100 -1 true true
+Spike -150 200 100 100 -1 true true
+Spike -50 200 100 100 -1 true true
+Spike 50 200 100 100 -1 true true
+Spike 150 200 100 100 -1 true true
+Spike 250 200 100 100 -1 true true
+Spike 350 200 100 100 -1 true true
+Spike 400 200 100 100 -1 true true
+Spike 400 -50 100 100 -1 true true
+Spike 300 -50 100 100 -1 true true
+Spike 200 -50 100 100 -1 true true
+Spike 100 -50 100 100 -1 true true
+Spike 0 -50 100 100 -1 true true
+Spike -100 -50 100 100 -1 true true
+Spike -200 -50 100 100 -1 true true
+Spike -300 -50 100 100 -1 true true
+Spike -400 -50 100 100 -1 true true
+Spike -450 -50 100 100 -1 true true
+Spike -450 -300 100 100 -1 true true
+Spike -350 -300 100 100 -1 true true
+Spike -250 -300 100 100 -1 true true
+Spike -150 -300 100 100 -1 true true
+Spike -50 -300 100 100 -1 true true
+Spike 50 -300 100 100 -1 true true
+Spike 150 -300 100 100 -1 true true
+Spike 250 -300 100 100 -1 true true
+Spike 350 -300 100 100 -1 true true
+Spike 400 -300 100 100 -1 true true
+Exit 0 -450 100 100 
+Decoration -450 400 100 100 1 
+Decoration 350 100 100 100 2 
+Decoration -200 50 100 100 2 
+Decoration -350 -150 100 100 2 
+Decoration -350 -400 100 100 2 
+Decoration -150 -400 100 100 2 
+Decoration 200 -400 100 100 2 
+Decoration -250 350 100 100 2 
+Decoration -400 350 100 100 2 
+Decoration 300 350 100 100 2 
+Decoration 300 350 100 100 2 
+Decoration 100 350 100 100 2 
+Decoration 100 350 100 100 3 
+Decoration 100 100 100 100 3 
+Decoration -200 100 100 100 3 
+Decoration -350 -200 100 100 3 
+Decoration -300 -400 100 100 3 
+Decoration -50 -450 100 100 3 
+Decoration 200 -450 100 100 3 
+Decoration 350 -400 100 100 3 
+Decoration 350 -200 100 100 3 
+Decoration 350 -200 100 100 7 
+Decoration 0 100 100 100 7 
+Decoration -450 -400 100 100 7 
+Size -550 -550 610 600

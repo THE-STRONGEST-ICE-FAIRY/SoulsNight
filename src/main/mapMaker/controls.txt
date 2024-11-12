@@ -1,0 +1,67 @@
+Save To File
+    ENTER
+
+Pan Camera
+    RMB Hold
+
+Place Object
+    LMB Click
+
+Change Object
+    SPACE (next)
+    ALT (previous)
+
+Transform Object
+    W (increase height)
+    S (decrease height)
+    D (increase width)
+    A (decrease width)
+    UP (increase height and width)
+    DOWN (decrease height and width)
+    RIGHT (rotate cw)
+    LEFT (rotate ccw)
+    DELETE (reset size)
+
+Cursor Precision
+    I (UP)
+    J (LEFT)
+    K (DOWN)
+    L (RIGHT)
+
+Per Object Controls
+    Turret
+        EQUALS (object id + 1)
+        MINUS (object id - 1)
+        0 (toggle on/off)
+        9 (toggle detector)
+        7, 8 (change direction: right 1, left 2, up 3, down 4)
+
+    BLOCK
+        EQUALS (object id + 1)
+        MINUS (object id - 1)
+        0 (toggle on/off)
+
+    SPIKE
+        EQUALS (object id + 1)
+        MINUS (object id - 1)
+        0 (toggle on/off)
+        9 (toggle reverse on/off)
+
+    Switch
+        EQUALS (object id + 1)
+        MINUS (object id - 1)
+
+    Floor
+        EQUALS (next sprite)
+
+    Wall
+        EQUALS (next sprite)
+        MINUS (prev sprite)
+
+    Decoration
+        EQUALS (next sprite)
+        MINUS (prev sprite)
+
+    Bouncer
+        EQUALS (angle + 45 degrees)
+        EQUALS (angle - 45 degrees)
